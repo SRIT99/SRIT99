@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **new android kotlin based projects.**
 
-- 🤝 I’m looking for help with **Any problems related to Jetpack compose that beginners have to face with**
+- 🤝 I’m looking to help with **Any problems related to Jetpack compose that beginners have to face with**
 
 - 💬 Ask me about **Kotlin, Jetpack Compose and Android studio**
 
 - 📫 How to reach me **surajworkspace12@gmail.com**
 
-- ⚡ Fun fact **You never know, how close you were to get it done!**
+- ⚡ Fun fact: **You never know, how close you were to get it done!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
