@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srit99" alt="srit99" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Room App**
-
+- 🔭 I’m currently working on **Room Db Project**
+-About Room : Room is a persistence library provided by Android that provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite. It simplifies the use of databases in Android applications by offering a more intuitive API and by handling some of the more complex aspects of database management for you.
 - 🌱 I’m currently learning **How Jetpack compose can help to build better UI's**
 
 - 👯 I’m looking to collaborate on **new android kotlin based projects.**
