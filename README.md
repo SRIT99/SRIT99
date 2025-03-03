@@ -12,7 +12,7 @@
 ### About Me 👨‍💻
 
 I'm an IT student from Nepal who loves turning coffee into code. Currently exploring the vast world of software development and always excited to learn something new!
-- 🔭 I’m currently working on **Room Db Project**
+- 🔭 I’m currently working on **E-Commerce Project with React Js and Tailwind css** **Room Db Project**
 -About Room : Room is a persistence library provided by Android that provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite. It simplifies the use of databases in Android applications by offering a more intuitive API and by handling some of the more complex aspects of database management for you.
 
 - 🌱 Currently mastering **Android Room Persistence** and **Jetpack compose**
